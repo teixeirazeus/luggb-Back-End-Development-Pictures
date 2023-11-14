@@ -1,1 +1,1 @@
-# coding-project-template
+Project for the IBM backend course.
